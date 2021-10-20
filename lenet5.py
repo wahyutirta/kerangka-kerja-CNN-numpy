@@ -12,6 +12,7 @@ from layers.Activation_Softmax import Activation_Softmax
 from layers.loss import *
 from layers.maxpool import *
 from layers.Optimizernp import *
+from layers.Dropout import *
 
 import cv2
 from einops import rearrange, reduce, repeat
